@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kanbisujal
 - 👀 I’m interested in python programming
-- 🌱 I’m currently learning python programmingnamaste 
+- 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
